@@ -1,0 +1,15 @@
+// UTILS
+@import "utils/variables";
+
+// BASE
+@import "base/base";
+@import "base/links";
+
+//LAYOUT
+@import "layout/header";
+@import "layout/footer";
+@import "layout/content";
+
+// COMPONENTS
+@import "components/postsList";
+@import "components/modal";

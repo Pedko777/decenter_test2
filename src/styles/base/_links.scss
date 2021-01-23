@@ -1,0 +1,7 @@
+.link {
+  font-size: 1.6rem;
+  color: $primary-text-color;
+  &:hover {
+    color: $primary-color;
+  }
+}
